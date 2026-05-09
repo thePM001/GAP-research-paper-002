@@ -16,7 +16,7 @@ Install OpenTimestamps (https://opentimestamps.org/) and run:
 
 
 ### Author: the.PM (https://x.com/thePM_001)
-### Iberian Peninsula Human Civilization Continuation Project
+### Iberian Peninsula Human Civilization Continuation Project (IPHCCP)
 ### New Lisbon Agency (NLA)
 ### Correspondence: support@newlisbon.agency
 ### 08.05.2026
