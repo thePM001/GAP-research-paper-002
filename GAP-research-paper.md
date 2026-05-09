@@ -17,9 +17,9 @@ Install OpenTimestamps (https://opentimestamps.org/) and run:
 
 ### Author: the.PM (https://x.com/thePM_001)
 ### Iberian Peninsula Human Civilization Continuation Project
-### New Lisbon Agency
+### New Lisbon Agency (NLA)
 ### Correspondence: support@newlisbon.agency
-### May 2026
+### 08.05.2026
 
 Authorship commitment: This document was timestamped via OpenTimestamps. The matching .ots proof is available upon authorship dispute claim.
 
