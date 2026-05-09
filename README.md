@@ -20,7 +20,7 @@ GAP - Governed Agentic Programming - A Structural Instruction Language for Const
 ## Iberian Peninsula Human Civilization Continuation Project (IPHCCP)
 ## New Lisbon Agency (NLA)
 ## Correspondence: support@newlisbon.agency
-## 08.05.2026
+## Publication date: 08.05.2026
 
 Authorship commitment: This document was timestamped via OpenTimestamps. The matching .ots proof is available upon authorship dispute claim.
 
